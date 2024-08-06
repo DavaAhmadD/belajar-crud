@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.navbarAtas{
+    background-color: #2b2a4c;
+}
+.textHome{
+    color: #2b2a4c;
+}
+
+.tombolLogin{
+    background-color: #2b2a4c;
+}
+.tombolLogin:hover{
+    background-color: #494969;
+}
+
+.tombolLogout{
+    background-color: #b31312;
+}
+.tombolLogout:hover{
+    background-color: #770707;
+}
+
+.tombolTambah{
+    background-color: #00addf;
+}
+.tombolTambah:hover{
+    background-color: #006683;
+}
+
+.tombolEdit{
+    margin-right: 5px;
+    background-color: #feb300;
+}
+.tombolEdit:hover{
+    background-color: #a87602;
+}
+
+.tombolHapus{
+    background-color: #f04e23;
+}
+.tombolHapus:hover{
+    background-color: #ad3b1b;
+}
